@@ -1,0 +1,1 @@
+# Sentimental-analysis-with-continuous-bag-of-words-for-amazon-book-reviews
